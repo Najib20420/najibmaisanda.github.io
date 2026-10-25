@@ -116,7 +116,7 @@ Relevant areas include voter registration, election setup, candidate management,
 
 ## 🎓 Education & Academic Management Systems
 
-### 4. FACONS Student Attendance Management System
+### 4. Student Attendance Management System
 
 An institutional attendance and student verification system developed for Fatima College of Nursing Sciences, Sifawa.
 
